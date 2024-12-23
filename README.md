@@ -1,13 +1,5 @@
 # Google Play Store Data Analysis Project
 
-# **NOTE** *
-
-**This project is hosted privately on GitHub, with controlled access managed through a third-party application, GitFront, allowing only selected viewers to access the repository.** 
-
-**For the best experience, it is recommended to download the raw files for "Google_review_project.ipynb" and "DarDoc-Report.pdf" and open them in your preferred code editor (ideally, VS Code).** 
-
-**This ensures that all elements of the code file are displayed correctly, as certain components may not be as user-friendly in other viewers.**
-
 ## Project Objective
 The objective of this project is to collect, analyze, and extract actionable insights from data sourced from the Google Play Store. The findings aim to support the **Customer Support (CS) team** in making informed decisions and improving service strategies.
 
